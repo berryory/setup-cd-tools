@@ -22,9 +22,9 @@ jobs:
     steps:
       ...
       - name: Set up tools
-        uses: daisaru11/setup-cd-tools@v1
+        uses: berryory/setup-cd-tools@v1.0.0
         with:
-          kubectl: '1.6.0'
-          kustomize: '3.5.4'
+          kubectl: '1.25.4'
+          kustomize: '4.5.7'
       ...
 ```
