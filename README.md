@@ -4,7 +4,7 @@ A Github Action to set up a variety of tools for Continuous Delivery.
 
 - [jq](https://stedolan.github.io/jq/)
 - [yq](https://github.com/mikefarah/yq)
-- kubectl
+- [kubectl](https://github.com/kubernetes/kubectl)
 - [kustomize](https://github.com/kubernetes-sigs/kustomize)
 - [skaffold](https://github.com/GoogleContainerTools/skaffold)
 - [helm](https://github.com/helm/helm)
